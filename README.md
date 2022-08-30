@@ -8,3 +8,6 @@ Primer ejercicio: ordenar los elementos de un proyecto
 - En la carpeta styles se encuentra las hojas de estilo del proyecto (los archivos .css)
 - En la carpeta structure se encuntran las hojas de la estructura del protecto (los archivos .html), expecto el index para que este pueda ser usado en con el git pages
 - El Readme.md no se ubica en ninguna carpeta para que git hub pueda mostrarlos
+
+# Inicializar el repositorio
+```npm start ```
