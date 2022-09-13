@@ -1,0 +1,37 @@
+[
+    {
+      "companyId": 1,
+      "name": "Fake Company",
+      "employeesQuantity": 50,
+      "area": "IT",
+      "employees": [1, 2, 7, 9]
+    },
+    {
+      "companyId": 2,
+      "name": "Los pollos hermanos",
+      "employeesQuantity": 0,
+      "area": "Fast food",
+      "employees": [3, 5]
+    },
+    {
+      "companyId": 3,
+      "name": "Carrefour",
+      "employeesQuantity": 4,
+      "area": "Supermarket",
+      "employees": [8]
+    },
+    {
+      "companyId": 4,
+      "name": "Psy Congroo labs",
+      "employeesQuantity": "",
+      "area": "Lab",
+      "employees": [6]
+    },
+    {
+      "companyId": 5,
+      "name": "Ternium Siderar",
+      "employeesQuantity": 200,
+      "area": "Steel Industry",
+      "employees": [4, 10]
+    }
+  ]
