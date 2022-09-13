@@ -11,3 +11,6 @@ Primer ejercicio: ordenar los elementos de un proyecto
 
 # Inicializar el repositorio
 ```npm start ```
+
+# Conection to data base
+mongodb+srv://manuel:<password>@bdmanuel.dm7tgd4.mongodb.net/?retryWrites=true&w=majority
