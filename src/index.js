@@ -23,7 +23,7 @@ app.use(providersRouter);
 
 mongoose.connect("mongodb+srv://manuel:manumanu1@bdmanuel.dm7tgd4.mongodb.net/?retryWrites=true&w=majority").then(() => {
   console.log('DB connected')
-  app.listen(PORT, () => console.log(`Listening at http://localhost:3001`));
+  app.listen(3001, () => console.log(`Listening at http://localhost:3001`));
 }).catch(err => {
   console.log('There was an error on the DB connection')
   console.log(err)
