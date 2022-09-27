@@ -1,0 +1,72 @@
+[
+    {
+      "userId": 1,
+      "name": "Braian Quispe",
+      "age": 23,
+      "education": "Universitario incompleto",
+      "profession": "software developer"
+    },
+    {
+      "userId": 2,
+      "name": "Rodrigo",
+      "age": 24,
+      "education": "Universitario incompleto",
+      "profession": "software developer"
+    },
+    {
+      "userId": 3,
+      "name": "Santiago",
+      "age": 22,
+      "education": "Universitario incompleto",
+      "profession": "food delivery"
+    },
+    {
+      "userId": 4,
+      "name": "Nicolás",
+      "age": 22,
+      "education": "Universitario incompleto",
+      "profession": "steel company operator"
+    },
+    {
+      "userId": 5,
+      "name": "Juan Pérez",
+      "age": 25,
+      "education": "Universitario completo",
+      "profession": "food delivery"
+    },
+    {
+      "userId": 6,
+      "name": "Walter",
+      "age": 24,
+      "education": "Secundario completo",
+      "profession": "chemistrist"
+    },
+    {
+      "userId": 7,
+      "name": "Enzo",
+      "age": 23,
+      "education": "Universitario incompleto",
+      "profession": "software developer"
+    },
+    {
+      "userId": 8,
+      "name": "Lucas",
+      "age": 23,
+      "education": "Secundario incompleto",
+      "profession": "cashier"
+    },
+    {
+      "userId": 9,
+      "name": "Marcos",
+      "age": 27,
+      "education": "Universitario completo",
+      "profession": "software engineer"
+    },
+    {
+      "userId": 10,
+      "name": "Martín",
+      "age": 27,
+      "education": "Universitario incompleto",
+      "profession": "operator"
+    }
+  ]
